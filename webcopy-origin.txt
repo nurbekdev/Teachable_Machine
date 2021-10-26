@@ -1,0 +1,20 @@
+Uri: https://ainur.netlify.app/
+File Name: C:\Users\ALFA ELectronics\Desktop\ainur.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://ainur.netlify.app/libraries/p5.min.js
+File Name: C:\Users\ALFA ELectronics\Desktop\ainur.netlify.app\libraries\p5.min.js
+Content Type: application/javascript
+
+Uri: https://ainur.netlify.app/app.js
+File Name: C:\Users\ALFA ELectronics\Desktop\ainur.netlify.app\app.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js
+File Name: C:\Users\ALFA ELectronics\Desktop\ainur.netlify.app\ajax\libs\p5.js\0.9.0\addons\p5.dom.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/ml5@0.4.3/dist/ml5.min.js
+File Name: C:\Users\ALFA ELectronics\Desktop\ainur.netlify.app\ml5@0.4.3\dist\ml5.min.js
+Content Type: application/javascript
+
